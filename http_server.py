@@ -1,7 +1,7 @@
 from os.path import isfile, join
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
-SERVER_ADDR = "0.0.0.0"
+SERVER_ADDR = "1.1.1.1"
 SERVER_PORT = 80
 
 SERVER_DIR = "http"
