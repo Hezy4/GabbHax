@@ -8,7 +8,7 @@ from os.path import isfile
 
 HOSTS_FILE = "hosts.txt"
 
-SERVER_HOST = "0.0.0.0"
+SERVER_HOST = "1.1.1.1"
 SERVER_PORT = 53
 
 #ipv4_exp = re.compile(r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}")
